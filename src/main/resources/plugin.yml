@@ -1,0 +1,6 @@
+main: com.hogeclass.airride.AirRide
+name: AirRide
+version: 0.1
+depend: [PacketListenerApi]
+commands:
+    spawnStar:
